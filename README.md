@@ -12,6 +12,10 @@ pip install requests
 pip install bs4
 
 # For Run
+git clone https://github.com/kirazetsu/free-domains
+
+cd free-domains
+
 python doms.py
 
 # Instagram
