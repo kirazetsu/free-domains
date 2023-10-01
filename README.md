@@ -12,7 +12,7 @@ pip install requests
 pip install bs4
 
 # For Run
-python dom.py
+python doms.py
 
 # Instagram
 # @ohsyitkir
