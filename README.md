@@ -6,7 +6,9 @@ kirazetsu 👑
 
 # installation
 pip install pycryptodome
+
 pip install requests
+
 pip install bs4
 
 # For Run
